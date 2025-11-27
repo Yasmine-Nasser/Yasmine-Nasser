@@ -1,5 +1,12 @@
 👋 Hi there, I'm Yasmine Nasser!
 
+<div align="center">
+![Stats](https://github-readme-stats.vercel.app/api?username=YasmineNasser&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=YasmineNasser&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=YasmineNasser&theme=merko)
+![Stats](https://github-readme-stats.vercel.app/api?username=YasmineNasser&theme=gruvbox)
+</div>
+
 💼 Professional Summary
 Frontend Developer specializing in creating responsive, user-centric web applications. Passionate about clean code, modern design principles, and continuous skill development in evolving web technologies.
 
