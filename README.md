@@ -1,6 +1,5 @@
 👋 Hi there, I'm Yasmine Nasser!
 
-<!--
 💼 Professional Summary
 Frontend Developer specializing in creating responsive, user-centric web applications. Passionate about clean code, modern design principles, and continuous skill development in evolving web technologies.
 
@@ -28,4 +27,3 @@ Frontend Developer specializing in creating responsive, user-centric web applica
 - 📧 Email: yasminenasser34@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/yasmine-nasser-120a1a320
 - 💻 GitHub: Yasmine-Nasser (https://github.com/Yasmine-Nasser)
--->
