@@ -26,4 +26,4 @@ Frontend Developer specializing in creating responsive, user-centric web applica
  📬 Connect With Me
 - 📧 Email: yasminenasser34@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/yasmine-nasser-120a1a320
-- 💻 GitHub: Yasmine-Nasser (https://github.com/Yasmine-Nasser)
+- 💻 Facebook: www.facebook.com/yasmin.naser.1238
