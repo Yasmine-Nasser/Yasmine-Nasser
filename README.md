@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **yasminenasser34@gmail.com**
 
-- 📄 Know about my experiences [Front-End: Strong expertise in React, Next.js, TypeScript, and modern UI libraries, with sharp attention to clean code, reusable components, and professional UI/UX practices.](Front-End: Strong expertise in React, Next.js, TypeScript, and modern UI libraries, with sharp attention to clean code, reusable components, and professional UI/UX practices.)
+- 📄Front-End: Strong expertise in React, Next.js, TypeScript, and modern UI libraries, with sharp attention to clean code, reusable components, and professional UI/UX practices.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
