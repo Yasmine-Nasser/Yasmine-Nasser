@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yasmine Altabakh</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=1000&width=435&lines=Front-end+Web+Developer;MERN+Stack+Web+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=500&size=32&pause=1000&width=435&lines=Front-end+Web+Developer;MERN+Stack+Web+Developer" alt="Typing SVG" /></a>
 
 - 🌱 I’m currently learning **Node.JS**
 
