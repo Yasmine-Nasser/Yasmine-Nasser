@@ -76,7 +76,8 @@ const yasmine = {
 
 ---
 
-## 📊 GitHub Stats
+
+<!--  📊 GitHub Stats
 
 <div align="center">
 
@@ -89,7 +90,7 @@ const yasmine = {
 
 </div>
 
----
+--- 
 
 ## 🏆 GitHub Trophies
 
@@ -97,7 +98,7 @@ const yasmine = {
   <img src="https://github-profile-trophy.vercel.app/?username=yasmine-altabakh&theme=tokyonight&no-frame=true&no-bg=true&column=6"/>
 </div>
 
----
+--- -->
 
 ## 🌐 Connect With Me
 
