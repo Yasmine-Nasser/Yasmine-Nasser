@@ -1,37 +1,125 @@
 <h1 align="center">Hi 👋, I'm Yasmine Altabakh</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=500&size=32&pause=1000&width=435&lines=Front-end+Web+Developer;MERN+Stack+Web+Developer" alt="Typing SVG" /></a>
+<div align="center">
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yasmine%20Altabakh&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=MERN%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A960EE&background=00000000&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Building+the+Web%2C+One+Line+at+a+Time+%F0%9F%9A%80;Frontend+%2B+Backend+%3D+Full+Power+%F0%9F%94%A5;React+%7C+Node.js+%7C+MongoDB+%7C+Express+%E2%9C%A8" alt="Typing SVG" />
+</a>
 
-- 🌱 I’m currently learning **Node.JS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Yasmine-Nasser/Yasmine-Nasser](https://github.com/Yasmine-Nasser/Yasmine-Nasser)
 
-- 💬 Ask me about **React & Next.js**
 
-- 📫 How to reach me **yasminenasser34@gmail.com**
+<!-- Profile Views & Social Badges -->
+![Profile Views](https://komarev.com/ghpvc/?username=yasmine-altabakh&color=blueviolet&style=flat-square&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/yasmine-altabakh?style=flat-square&color=A960EE)](https://github.com/yasmine-altabakh)
 
-- 📄Front-End: Strong expertise in React, Next.js, TypeScript, and modern UI libraries, with sharp attention to clean code, reusable components, and professional UI/UX practices.
+</div>
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## 🌸 About Me
+
+```javascript
+const yasmine = {
+  name:       "Yasmine Altabakh",
+  title:      "MERN Stack Developer",
+  location:   "Alexandria, Egypt 🇪🇬",
+  passion:    "Turning ideas into beautiful, functional web apps",
+  currently:  "Building full-stack projects with React & Node.js",
+  learning:   ["TypeScript", "Next.js", "Docker"],
+  funFact:    "I debug with coffee ☕ and deploy with confidence 🚀"
+};
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yasmine-nasser99/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yasmine-nasser99/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/yasmin.naser.1238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/yasmin.naser.1238" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+### ⚙️ Backend
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
 
+### 🗄️ Database
+<p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
-<!--
-**Yasmine-Nasser/Yasmine-Nasser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧠 Problem Solving
+<p align="left">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</p>
 
-Here are some ideas to get you started:
+### 🔧 Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yasmine-altabakh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960EE&icon_color=A960EE&text_color=ffffff"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yasmine-altabakh&theme=tokyonight&hide_border=true&background=0D1117&stroke=A960EE&ring=A960EE&fire=FF6B6B&currStreakLabel=A960EE"/>
+
+<br/>
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmine-altabakh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960EE&text_color=ffffff"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yasmine-altabakh&theme=tokyonight&no-frame=true&no-bg=true&column=6"/>
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasminenasser34@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yasmine-Nasser)
+ 
+</div>
+ 
+---
+ 
+<div align="center">
+ 
+<!-- Snake Animation -->
+<img src="https://raw.githubusercontent.com/Yasmine-Nasser/Yasmine-Nasser/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+ 
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+ 
+<i>"Code is not just syntax — it's a story you tell the world 💜"</i>
+ 
+</div>
+ 
