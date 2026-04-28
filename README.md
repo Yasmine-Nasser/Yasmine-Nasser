@@ -16,23 +16,6 @@
 
 </div>
 
----
-
-## 🌸 About Me
-
-```javascript
-const yasmine = {
-  name:       "Yasmine Altabakh",
-  title:      "MERN Stack Developer",
-  location:   "Alexandria, Egypt 🇪🇬",
-  passion:    "Turning ideas into beautiful, functional web apps",
-  currently:  "Building full-stack projects with React & Node.js",
-  learning:   ["TypeScript", "Next.js", "Docker"],
-  funFact:    "I debug with coffee ☕ and deploy with confidence 🚀"
-};
-```
-
----
 
 ## 🛠️ Tech Stack
 
